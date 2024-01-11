@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-12T04:00:49 IST" name="Suite" finished-at="2024-01-12T04:02:44 IST" duration-ms="115462">
+    <groups>
+    </groups>
+    <test started-at="2024-01-12T04:00:49 IST" name="Test" finished-at="2024-01-12T04:02:44 IST" duration-ms="115462">
+      <class name="tests.One1">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:tests.One1@5c6648b0]" started-at="2024-01-12T04:01:08 IST" name="SetUp" finished-at="2024-01-12T04:01:08 IST" duration-ms="457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="TestOne()[pri:0, instance:tests.One1@5c6648b0]" started-at="2024-01-12T04:01:08 IST" name="TestOne" finished-at="2024-01-12T04:01:26 IST" duration-ms="17798" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestOne -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:tests.One1@5c6648b0]" started-at="2024-01-12T04:01:26 IST" name="TearDown" finished-at="2024-01-12T04:01:26 IST" duration-ms="140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- tests.One1 -->
+      <class name="tests.Three3">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:tests.Three3@7cc0cdad]" started-at="2024-01-12T04:02:25 IST" name="SetUp" finished-at="2024-01-12T04:02:26 IST" duration-ms="587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="TestThree()[pri:0, instance:tests.Three3@7cc0cdad]" started-at="2024-01-12T04:02:26 IST" name="TestThree" finished-at="2024-01-12T04:02:44 IST" duration-ms="17873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestThree -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:tests.Three3@7cc0cdad]" started-at="2024-01-12T04:02:44 IST" name="TearDown" finished-at="2024-01-12T04:02:44 IST" duration-ms="139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- tests.Three3 -->
+      <class name="tests.One">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:tests.One@57a3af25]" started-at="2024-01-12T04:00:49 IST" name="SetUp" finished-at="2024-01-12T04:00:50 IST" duration-ms="1290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="TestOne()[pri:0, instance:tests.One@57a3af25]" started-at="2024-01-12T04:00:50 IST" name="TestOne" finished-at="2024-01-12T04:01:08 IST" duration-ms="17765" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestOne -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:tests.One@57a3af25]" started-at="2024-01-12T04:01:08 IST" name="TearDown" finished-at="2024-01-12T04:01:08 IST" duration-ms="98" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- tests.One -->
+      <class name="tests.Three">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:tests.Three@128d2484]" started-at="2024-01-12T04:02:07 IST" name="SetUp" finished-at="2024-01-12T04:02:08 IST" duration-ms="830" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="TestThree()[pri:0, instance:tests.Three@128d2484]" started-at="2024-01-12T04:02:08 IST" name="TestThree" finished-at="2024-01-12T04:02:25 IST" duration-ms="17816" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestThree -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:tests.Three@128d2484]" started-at="2024-01-12T04:02:25 IST" name="TearDown" finished-at="2024-01-12T04:02:25 IST" duration-ms="98" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- tests.Three -->
+      <class name="tests.Two2">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:tests.Two2@459e9125]" started-at="2024-01-12T04:01:47 IST" name="SetUp" finished-at="2024-01-12T04:01:48 IST" duration-ms="1526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="TestTwo()[pri:0, instance:tests.Two2@459e9125]" started-at="2024-01-12T04:01:48 IST" name="TestTwo" finished-at="2024-01-12T04:02:06 IST" duration-ms="18047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTwo -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:tests.Two2@459e9125]" started-at="2024-01-12T04:02:06 IST" name="TearDown" finished-at="2024-01-12T04:02:07 IST" duration-ms="566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- tests.Two2 -->
+      <class name="tests.Two">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:tests.Two@6f1de4c7]" started-at="2024-01-12T04:01:26 IST" name="SetUp" finished-at="2024-01-12T04:01:28 IST" duration-ms="1764" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="TestTwo()[pri:0, instance:tests.Two@6f1de4c7]" started-at="2024-01-12T04:01:28 IST" name="TestTwo" finished-at="2024-01-12T04:01:46 IST" duration-ms="18062" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTwo -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:tests.Two@6f1de4c7]" started-at="2024-01-12T04:01:46 IST" name="TearDown" finished-at="2024-01-12T04:01:47 IST" duration-ms="561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- tests.Two -->
+      <class name="tests.Setup_DockerGrid">
+        <test-method is-config="true" signature="startDockergrid()[pri:0, instance:tests.Setup_DockerGrid@7c7b252e]" started-at="2024-01-12T04:00:49 IST" name="startDockergrid" finished-at="2024-01-12T04:00:49 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDockergrid -->
+        <test-method is-config="true" signature="stopDockergrid()[pri:0, instance:tests.Setup_DockerGrid@7c7b252e]" started-at="2024-01-12T04:02:44 IST" name="stopDockergrid" finished-at="2024-01-12T04:02:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopDockergrid -->
+      </class> <!-- tests.Setup_DockerGrid -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
